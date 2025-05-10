@@ -1,0 +1,10 @@
+ExpressLRS/.idea
+ExpressLRS/oldcode/oldcode.txt
+ExpressLRS/oldcode/ESP8266_OStimer.cpp
+ExpressLRS/oldcode/ESP8266_OStimer.h
+ExpressLRS/src/firmware.map
+ExpressLRS/src/src/fhss_freqs.h
+ExpressLRS/src/.vscode
+ExpressLRS/src/data/*.ini
+ExpressLRS/src/data/*.json
+ExpressLRS/src/hardware
