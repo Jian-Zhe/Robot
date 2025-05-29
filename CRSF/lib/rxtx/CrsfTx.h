@@ -1,6 +1,16 @@
+/**
+ * CrsfTx.h
+ * Copyright (c) 2025 Jian-Zhe, Su
+ * This file is part of CRSF.
+ * CRSF is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * This file includes code from ServoF (GPLv3), see NOTICE for details.
+ */
 #pragma once
 
-#include "../CrsfSerial/CrsfSerial.h"
+#include "crsf/CrsfSerial/CrsfSerial.h"
 
 #define CHANNEL_SEND_INTERVAL_US 5U
 

@@ -1,0 +1,16 @@
+NOTICE
+
+This project includes third-party software components under the following licenses:
+
+1. MIT License:
+   - serialib from https://github.com/imabot2/serialib
+     Located in /third_party/serial
+     For license details, see /third_party/serial/LICENSE
+
+2. GNU General Public License v3.0 or later (GPLv3+):
+   - CRServoF from https://github.com/CapnBry/CRServoF
+     Portions of code in /third_party/crsf are directly used from CRServoF.
+     Portions of code in /lib/rxtx are derived from CRServoF.
+     Modified by Jian-Zhe, Su in 2025.
+
+Please refer to the respective license files in the third_party directories for full license terms and conditions.

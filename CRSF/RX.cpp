@@ -1,4 +1,4 @@
-#include "lib/serial/serialib.h"
+#include "serial/serialib.h"
 #include "lib/rxtx/CrsfRx.h"
 #include <unistd.h>
 #include <stdio.h>

@@ -1,0 +1,13 @@
+{
+  "package_name": "turtlesim",
+  "non_idl_tuples": [
+    "/home/alpaca/Documents/robot/RemoteControlTurtle/src/turtlesim:action/RotateAbsolute.action",
+    "/home/alpaca/Documents/robot/RemoteControlTurtle/src/turtlesim:msg/Color.msg",
+    "/home/alpaca/Documents/robot/RemoteControlTurtle/src/turtlesim:msg/Pose.msg",
+    "/home/alpaca/Documents/robot/RemoteControlTurtle/src/turtlesim:srv/Kill.srv",
+    "/home/alpaca/Documents/robot/RemoteControlTurtle/src/turtlesim:srv/SetPen.srv",
+    "/home/alpaca/Documents/robot/RemoteControlTurtle/src/turtlesim:srv/Spawn.srv",
+    "/home/alpaca/Documents/robot/RemoteControlTurtle/src/turtlesim:srv/TeleportAbsolute.srv",
+    "/home/alpaca/Documents/robot/RemoteControlTurtle/src/turtlesim:srv/TeleportRelative.srv"
+  ]
+}

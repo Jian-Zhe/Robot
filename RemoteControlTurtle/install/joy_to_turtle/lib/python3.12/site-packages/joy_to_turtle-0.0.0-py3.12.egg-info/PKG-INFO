@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: joy-to-turtle
+Version: 0.0.0
+Summary: Get joystick input to control turtle
+Maintainer: alpaca
+Maintainer-email: 9987jdvrb@gmail.com
+License: Apache-2.0
+License-File: LICENSE

@@ -1,0 +1,2 @@
+[console_scripts]
+joy_to_turtle = joy_to_turtle.joy_to_turtle:main

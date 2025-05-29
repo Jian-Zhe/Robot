@@ -1,0 +1,38 @@
+[1.201s] Invoking command in '/home/alpaca/Documents/robot/RemoteControlTurtle/src/joy_to_turtle': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/alpaca/Documents/robot/RemoteControlTurtle/build/joy_to_turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alpaca/Documents/robot/RemoteControlTurtle/install/joy_to_turtle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/joy_to_turtle build --build-base /home/alpaca/Documents/robot/RemoteControlTurtle/build/joy_to_turtle/build install --record /home/alpaca/Documents/robot/RemoteControlTurtle/build/joy_to_turtle/install.log --single-version-externally-managed install_data
+[1.553s] running egg_info
+[1.553s] creating ../../build/joy_to_turtle/joy_to_turtle.egg-info
+[1.579s] writing ../../build/joy_to_turtle/joy_to_turtle.egg-info/PKG-INFO
+[1.579s] writing dependency_links to ../../build/joy_to_turtle/joy_to_turtle.egg-info/dependency_links.txt
+[1.579s] writing entry points to ../../build/joy_to_turtle/joy_to_turtle.egg-info/entry_points.txt
+[1.580s] writing requirements to ../../build/joy_to_turtle/joy_to_turtle.egg-info/requires.txt
+[1.580s] writing top-level names to ../../build/joy_to_turtle/joy_to_turtle.egg-info/top_level.txt
+[1.580s] writing manifest file '../../build/joy_to_turtle/joy_to_turtle.egg-info/SOURCES.txt'
+[1.632s] reading manifest file '../../build/joy_to_turtle/joy_to_turtle.egg-info/SOURCES.txt'
+[1.633s] adding license file 'LICENSE'
+[1.633s] writing manifest file '../../build/joy_to_turtle/joy_to_turtle.egg-info/SOURCES.txt'
+[1.633s] running build
+[1.633s] running build_py
+[1.633s] creating /home/alpaca/Documents/robot/RemoteControlTurtle/build/joy_to_turtle/build
+[1.634s] creating /home/alpaca/Documents/robot/RemoteControlTurtle/build/joy_to_turtle/build/lib
+[1.634s] creating /home/alpaca/Documents/robot/RemoteControlTurtle/build/joy_to_turtle/build/lib/joy_to_turtle
+[1.634s] copying joy_to_turtle/__init__.py -> /home/alpaca/Documents/robot/RemoteControlTurtle/build/joy_to_turtle/build/lib/joy_to_turtle
+[1.634s] copying joy_to_turtle/joy_to_turtle.py -> /home/alpaca/Documents/robot/RemoteControlTurtle/build/joy_to_turtle/build/lib/joy_to_turtle
+[1.634s] running install
+[1.641s] running install_lib
+[1.666s] creating /home/alpaca/Documents/robot/RemoteControlTurtle/install/joy_to_turtle/lib/python3.12/site-packages/joy_to_turtle
+[1.666s] copying /home/alpaca/Documents/robot/RemoteControlTurtle/build/joy_to_turtle/build/lib/joy_to_turtle/__init__.py -> /home/alpaca/Documents/robot/RemoteControlTurtle/install/joy_to_turtle/lib/python3.12/site-packages/joy_to_turtle
+[1.666s] copying /home/alpaca/Documents/robot/RemoteControlTurtle/build/joy_to_turtle/build/lib/joy_to_turtle/joy_to_turtle.py -> /home/alpaca/Documents/robot/RemoteControlTurtle/install/joy_to_turtle/lib/python3.12/site-packages/joy_to_turtle
+[1.667s] byte-compiling /home/alpaca/Documents/robot/RemoteControlTurtle/install/joy_to_turtle/lib/python3.12/site-packages/joy_to_turtle/__init__.py to __init__.cpython-312.pyc
+[1.667s] byte-compiling /home/alpaca/Documents/robot/RemoteControlTurtle/install/joy_to_turtle/lib/python3.12/site-packages/joy_to_turtle/joy_to_turtle.py to joy_to_turtle.cpython-312.pyc
+[1.668s] running install_data
+[1.668s] creating /home/alpaca/Documents/robot/RemoteControlTurtle/install/joy_to_turtle/share/ament_index
+[1.668s] creating /home/alpaca/Documents/robot/RemoteControlTurtle/install/joy_to_turtle/share/ament_index/resource_index
+[1.668s] creating /home/alpaca/Documents/robot/RemoteControlTurtle/install/joy_to_turtle/share/ament_index/resource_index/packages
+[1.668s] copying resource/joy_to_turtle -> /home/alpaca/Documents/robot/RemoteControlTurtle/install/joy_to_turtle/share/ament_index/resource_index/packages
+[1.668s] copying package.xml -> /home/alpaca/Documents/robot/RemoteControlTurtle/install/joy_to_turtle/share/joy_to_turtle
+[1.668s] running install_egg_info
+[1.694s] Copying ../../build/joy_to_turtle/joy_to_turtle.egg-info to /home/alpaca/Documents/robot/RemoteControlTurtle/install/joy_to_turtle/lib/python3.12/site-packages/joy_to_turtle-0.0.0-py3.12.egg-info
+[1.695s] running install_scripts
+[1.858s] Installing joy_to_turtle script to /home/alpaca/Documents/robot/RemoteControlTurtle/install/joy_to_turtle/lib/joy_to_turtle
+[1.858s] writing list of installed files to '/home/alpaca/Documents/robot/RemoteControlTurtle/build/joy_to_turtle/install.log'
+[1.888s] Invoked command in '/home/alpaca/Documents/robot/RemoteControlTurtle/src/joy_to_turtle' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/alpaca/Documents/robot/RemoteControlTurtle/build/joy_to_turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alpaca/Documents/robot/RemoteControlTurtle/install/joy_to_turtle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/joy_to_turtle build --build-base /home/alpaca/Documents/robot/RemoteControlTurtle/build/joy_to_turtle/build install --record /home/alpaca/Documents/robot/RemoteControlTurtle/build/joy_to_turtle/install.log --single-version-externally-managed install_data
